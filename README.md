@@ -16,8 +16,32 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+# Ideas for first 25 data sets
+1. Longevity - age distribution
+2. Life expectancy
+3. Reading/Math scores for young students
+4. Austism/special ed rates
+5. Suspensions
+6. HS Graduation rates
+7. SAT Scores
+8. ACCE - Adverse Child Experience
+9. Child Abuse
+10. College Attendance - Graduation - Racing Bar Chart
+11. Pell Grants
+12. Suicide
+13. Drug/opioid overdoses
+14. Incarceration Rates
+15. Gun deaths
+16. Domestic Violence
+17. Shared Parenting
+18. Custodial parents
+19. Child Support/Alimony
+20. Women vs. Men Income at 30
+21. Covid Deaths
+22. Military Draft
+23. Work fatalities
+24. # out of wedlock births
+25. Outcomes of kids w/out fathers
 
 **Bold** and _Italic_ and `Code` text
 
