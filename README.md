@@ -42,6 +42,8 @@ Syntax highlighted code block
 23. Work fatalities
 24. # out of wedlock births
 25. Outcomes of kids w/out fathers
+26. Recipient of charitable giving
+27. Recipient of government funding
 
 **Bold** and _Italic_ and `Code` text
 
