@@ -1,8 +1,6 @@
-## Welcome to the Men's Well-Being Index Github Repository
+## Welcome to the Well-Being Index Github Repository
 
-This is the github corresponding to the Boys and Men Well-Being Index, mensindex.us.
-
-### Data Reposiotry
+### Data Repository
 
 We will store raw data here.
 
