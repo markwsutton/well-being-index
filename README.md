@@ -22,6 +22,9 @@ HE0000 - Mental and Physical Health
 MN0000 - Male Narrative
 CJ0000 - Criminal Justice System
 
+Example name for a project folder:
+HE0001-Opioid, and this would live in the 04-Health folder
+
 # Ideas for first 25 data sets
 1. Longevity - age distribution
 2. Life expectancy
