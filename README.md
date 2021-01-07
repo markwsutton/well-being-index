@@ -14,6 +14,14 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+Naming and numbering system is related to the GIBM 5 Pillars of male well-being plus the criminal justice system.
+ED0000 - Education
+CA0000 - Career
+FP0000 - Father, Parenting, Families, and the Law
+HE0000 - Mential and Physical Health
+MN0000 - Male Narrative
+CJ0000 - Criminal Justice System
+
 # Ideas for first 25 data sets
 1. Longevity - age distribution
 2. Life expectancy
