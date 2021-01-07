@@ -18,7 +18,7 @@ Naming and numbering system is related to the GIBM 5 Pillars of male well-being 
 ED0000 - Education
 CA0000 - Career
 FP0000 - Father, Parenting, Families, and the Law
-HE0000 - Mential and Physical Health
+HE0000 - Mental and Physical Health
 MN0000 - Male Narrative
 CJ0000 - Criminal Justice System
 
