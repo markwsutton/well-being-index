@@ -1,0 +1,21 @@
+﻿Title: Opioid Overdose Deaths by Gender | KFF,,
+Timeframe: 2018,,
+Location,Male,Female
+United States,0.69,0.31
+,,
+Notes,,
+"The National Vital Statistics System multiple cause-of-death mortality files were used to identify drug overdose deaths. Drug overdose deaths were classified using the International Classification of Disease, Tenth Revision (ICD-10), based on the ICD-10 underlying cause-of-death codes X40–44 (unintentional), X60–64 (suicide), X85 (homicide), or Y10–Y14 (undetermined intent). Among the deaths with drug overdose as the underlying cause, the type of opioid involved is indicated by the following ICD-10 multiple cause-of-death codes: opioids (T40.0, T40.1, T40.2, T40.3, T40.4, or T40.6); natural and semisynthetic opioids (T40.2); methadone (T40.3); synthetic opioids, other than methadone (T40.4); and heroin (T40.1).",,
+,,
+"Deaths from illegally-made fentanyl cannot be distinguished from pharmaceutical fentanyl in the data source. For this reason, deaths from both legally prescribed and illegally produced fentanyl are included in these data.",,
+,,
+"Rates presented in this data table represent age-adjusted rates per 100,000 population.",,
+,,
+Sources,,
+"Kaiser Family Foundation analysis of Centers for Disease Control and Prevention (CDC), National Center for Health Statistics. Multiple Cause of Death 1999-2018 on CDC WONDER Online Database, released 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at [http://wonder.cdc.gov/mcd-icd10.html](http://wonder.cdc.gov/mcd-icd10.html) on February 13, 2020.",,
+,,
+Definitions,,
+*NSD*: Data not available due to supression constraints.,,
+,,
+"*NSD*: Not sufficient data. Data supressed to ensure confidentiality.",,
+"",,
+*NR*: Data not reported. Data unreliable.,,
